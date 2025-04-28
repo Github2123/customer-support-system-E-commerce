@@ -22,7 +22,7 @@ logging.basicConfig(
 
 logging.info("Logging configured.")
 
-# 🔐 Gemini API Authentication
+
 genai.configure(api_key="AIzaSyCqAZ_f8Lvn-i_jX2phis1ASD6rZWN25Q4")
 gemini_model = genai.GenerativeModel("gemini-1.5-pro")
 
