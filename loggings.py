@@ -91,7 +91,7 @@ def run_sql_query(query):
         return f"Error executing SQL: {e}"
 
 def summarize_with_gemini(user_query, context):
-    # Custom response for general help questions
+    
     general_help_phrases = ["how can you help", "what can you do", "help me", "assist me"]
     if any(phrase in user_query.lower() for phrase in general_help_phrases):
         return (
