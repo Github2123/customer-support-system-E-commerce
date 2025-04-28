@@ -29,7 +29,7 @@ if "faq_texts" not in st.session_state:
     else:
         st.error(" FAQ file not found.")
 
-# ⚙️ Utility Functions
+# ⚙️ Utility Functions 
 def is_structured_query(query):
     keywords = ['top', 'lowest', 'highest', 'price', 'under', 'above', 'brand', 'category']
     return any(word in query.lower() for word in keywords)
