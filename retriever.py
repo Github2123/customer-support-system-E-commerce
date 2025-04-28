@@ -14,10 +14,10 @@ from sentence_transformers import SentenceTransformer
 
 
 
-# Directly set your API key (not recommended for production)
+
 genai.configure(api_key="AIzaSyCqAZ_f8Lvn-i_jX2phis1ASD6rZWN25Q4")
 
-# 💬 Initialize Gemini Model
+
 gemini_model = genai.GenerativeModel("gemini-1.5-pro")
 
 
