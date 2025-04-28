@@ -11,7 +11,6 @@ import os
 genai.configure(api_key="AIzaSyCqAZ_f8Lvn-i_jX2phis1ASD6rZWN25Q4")
 gemini_model = genai.GenerativeModel("gemini-1.5-flash")
 
-# ⚡ Efficient Data Loading (Only Once)
 if "model" not in st.session_state:
     st.session_state.model = SentenceTransformer('all-MiniLM-L6-v2')
 
