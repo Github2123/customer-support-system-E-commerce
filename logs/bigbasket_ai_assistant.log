@@ -1,0 +1,475 @@
+2025-04-21 21:25:51,428 - INFO - Logging configured.
+2025-04-21 21:25:51,428 - INFO - Logging configured.
+2025-04-21 21:25:51,428 - INFO - Loading model and FAISS index
+2025-04-21 21:25:51,428 - INFO - Logging configured.
+2025-04-21 21:25:51,428 - INFO - Loading model and FAISS index
+2025-04-21 21:25:51,428 - INFO - Loading model and FAISS index
+2025-04-21 21:25:51,428 - INFO - Use pytorch device_name: cpu
+2025-04-21 21:25:51,428 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-21 21:25:51,438 - INFO - Use pytorch device_name: cpu
+2025-04-21 21:25:51,438 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-21 21:25:51,438 - INFO - Use pytorch device_name: cpu
+2025-04-21 21:25:51,440 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-21 21:25:56,358 - INFO - Data loaded successfully
+2025-04-21 21:25:56,424 - INFO - Data loaded successfully
+2025-04-21 21:25:56,779 - INFO - Data loaded successfully
+2025-04-21 21:29:45,110 - INFO - Logging configured.
+2025-04-21 21:29:45,112 - INFO - Loading model and FAISS index
+2025-04-21 21:29:45,112 - INFO - Use pytorch device_name: cpu
+2025-04-21 21:29:45,112 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-21 21:29:48,976 - INFO - Data loaded successfully
+2025-04-21 21:30:31,054 - INFO - Logging configured.
+2025-04-21 21:30:31,054 - INFO - Loading model and FAISS index
+2025-04-21 21:30:31,054 - INFO - Use pytorch device_name: cpu
+2025-04-21 21:30:31,054 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-21 21:30:34,701 - INFO - Data loaded successfully
+2025-04-21 21:36:50,433 - INFO - Logging configured.
+2025-04-21 21:36:50,433 - INFO - Loading model and FAISS index
+2025-04-21 21:36:50,440 - INFO - Use pytorch device_name: cpu
+2025-04-21 21:36:50,442 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-21 21:36:53,198 - INFO - Data loaded successfully
+2025-04-21 21:36:53,202 - INFO - User queried: hi
+2025-04-21 21:36:53,202 - INFO - Processing user query: hi
+2025-04-21 21:36:53,671 - INFO - Summarizing context for query: hi
+2025-04-21 21:46:07,036 - INFO - Logging configured.
+2025-04-21 21:46:07,036 - INFO - Loading model and FAISS index
+2025-04-21 21:46:07,036 - INFO - Use pytorch device_name: cpu
+2025-04-21 21:46:07,036 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-21 21:46:10,723 - INFO - Data loaded successfully
+2025-04-21 21:46:15,751 - INFO - Logging configured.
+2025-04-21 21:46:15,751 - INFO - Loading model and FAISS index
+2025-04-21 21:46:15,751 - INFO - Use pytorch device_name: cpu
+2025-04-21 21:46:15,751 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-21 21:46:18,216 - INFO - Data loaded successfully
+2025-04-21 21:46:18,219 - INFO - User queried: hi
+2025-04-21 21:46:18,219 - INFO - Processing user query: hi
+2025-04-21 21:46:18,501 - INFO - Summarizing context for query: hi
+2025-04-21 21:46:22,012 - INFO - Response generated: Hi there! How can I help you today?  I see you might be interested in registering with BigBasket.  If you'd like to create an account, you can typically find the registration button on the BigBasket website or app.  Let me know if you have any questions about the registration process, or if you're looking for something else entirely!
+2025-04-21 21:50:42,665 - INFO - Logging configured.
+2025-04-21 21:50:42,665 - INFO - Logging configured.
+2025-04-21 21:50:42,665 - INFO - Loading model and FAISS index
+2025-04-21 21:50:42,665 - INFO - Loading model and FAISS index
+2025-04-21 21:50:42,665 - INFO - Use pytorch device_name: cpu
+2025-04-21 21:50:42,665 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-21 21:50:42,665 - INFO - Use pytorch device_name: cpu
+2025-04-21 21:50:42,665 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-21 21:50:45,740 - INFO - Data loaded successfully
+2025-04-21 21:50:45,788 - INFO - User queried: hi
+2025-04-21 21:50:45,788 - INFO - Processing user query: hi
+2025-04-21 21:50:45,833 - INFO - Summarizing context for query: hi
+2025-04-21 21:50:47,081 - INFO - Data loaded successfully
+2025-04-21 21:50:49,563 - INFO - Logging configured.
+2025-04-21 21:50:49,563 - INFO - Loading model and FAISS index
+2025-04-21 21:50:49,563 - INFO - Use pytorch device_name: cpu
+2025-04-21 21:50:49,563 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-21 21:50:52,530 - INFO - Data loaded successfully
+2025-04-21 21:50:52,530 - INFO - User queried: hi
+2025-04-21 21:50:52,530 - INFO - Processing user query: hi
+2025-04-21 21:50:52,593 - INFO - Summarizing context for query: hi
+2025-04-21 21:52:56,656 - INFO - Logging configured.
+2025-04-21 21:52:56,656 - INFO - Logging configured.
+2025-04-21 21:52:56,656 - INFO - Loading model and FAISS index
+2025-04-21 21:52:56,656 - INFO - Loading model and FAISS index
+2025-04-21 21:52:56,658 - INFO - Logging configured.
+2025-04-21 21:52:56,658 - INFO - Loading model and FAISS index
+2025-04-21 21:52:56,660 - INFO - Use pytorch device_name: cpu
+2025-04-21 21:52:56,660 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-21 21:52:56,662 - INFO - Use pytorch device_name: cpu
+2025-04-21 21:52:56,662 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-21 21:52:56,663 - INFO - Use pytorch device_name: cpu
+2025-04-21 21:52:56,663 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-21 21:53:00,199 - INFO - Data loaded successfully
+2025-04-21 21:53:01,479 - INFO - Data loaded successfully
+2025-04-21 21:53:01,500 - INFO - User queried: hi
+2025-04-21 21:53:01,502 - INFO - Processing user query: hi
+2025-04-21 21:53:01,554 - INFO - Summarizing context for query: hi
+2025-04-21 21:53:09,045 - INFO - Data loaded successfully
+2025-04-21 21:53:13,696 - INFO - Logging configured.
+2025-04-21 21:53:13,696 - INFO - Loading model and FAISS index
+2025-04-21 21:53:13,702 - INFO - Use pytorch device_name: cpu
+2025-04-21 21:53:13,702 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-21 21:53:16,579 - INFO - Data loaded successfully
+2025-04-21 21:53:16,591 - INFO - User queried: hi
+2025-04-21 21:53:16,593 - INFO - Processing user query: hi
+2025-04-21 21:53:16,643 - INFO - Summarizing context for query: hi
+2025-04-21 21:56:13,159 - INFO - Logging initialized.
+2025-04-21 21:56:13,159 - INFO - Logging initialized.
+2025-04-21 21:56:13,159 - INFO - Logging initialized.
+2025-04-21 21:56:13,159 - INFO - Loading SentenceTransformer model and FAISS index.
+2025-04-21 21:56:13,159 - INFO - Loading SentenceTransformer model and FAISS index.
+2025-04-21 21:56:13,159 - INFO - Loading SentenceTransformer model and FAISS index.
+2025-04-21 21:56:13,176 - INFO - Use pytorch device_name: cpu
+2025-04-21 21:56:13,176 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-21 21:56:13,176 - INFO - Use pytorch device_name: cpu
+2025-04-21 21:56:13,176 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-21 21:56:13,176 - INFO - Use pytorch device_name: cpu
+2025-04-21 21:56:13,176 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-21 22:04:50,699 - INFO - Logging configured.
+2025-04-21 22:04:50,699 - INFO - Logging configured.
+2025-04-21 22:04:50,699 - INFO - Logging configured.
+2025-04-21 22:04:50,699 - INFO - Logging configured.
+2025-04-21 22:04:50,701 - INFO - Loading model and FAISS index
+2025-04-21 22:04:50,701 - INFO - Loading model and FAISS index
+2025-04-21 22:04:50,701 - INFO - Loading model and FAISS index
+2025-04-21 22:04:50,701 - INFO - Loading model and FAISS index
+2025-04-21 22:04:50,701 - INFO - Use pytorch device_name: cpu
+2025-04-21 22:04:50,701 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-21 22:04:50,701 - INFO - Use pytorch device_name: cpu
+2025-04-21 22:04:50,701 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-21 22:04:50,701 - INFO - Use pytorch device_name: cpu
+2025-04-21 22:04:50,701 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-21 22:04:50,701 - INFO - Use pytorch device_name: cpu
+2025-04-21 22:04:50,701 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-21 22:04:54,168 - INFO - Data loaded successfully
+2025-04-21 22:06:32,415 - INFO - Logging configured.
+2025-04-21 22:06:32,415 - INFO - Loading model and FAISS index
+2025-04-21 22:06:32,415 - INFO - Logging configured.
+2025-04-21 22:06:32,415 - INFO - Loading model and FAISS index
+2025-04-21 22:06:32,415 - INFO - Logging configured.
+2025-04-21 22:06:32,415 - INFO - Loading model and FAISS index
+2025-04-21 22:06:32,415 - INFO - Logging configured.
+2025-04-21 22:06:32,415 - INFO - Loading model and FAISS index
+2025-04-21 22:06:32,431 - INFO - Use pytorch device_name: cpu
+2025-04-21 22:06:32,431 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-21 22:06:32,431 - INFO - Use pytorch device_name: cpu
+2025-04-21 22:06:32,431 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-21 22:06:32,431 - INFO - Use pytorch device_name: cpu
+2025-04-21 22:06:32,431 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-21 22:06:32,431 - INFO - Use pytorch device_name: cpu
+2025-04-21 22:06:32,431 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-21 22:06:36,065 - INFO - Data loaded successfully
+2025-04-21 22:07:51,157 - INFO - Logging configured.
+2025-04-21 22:07:51,157 - INFO - Logging configured.
+2025-04-21 22:07:51,157 - INFO - Loading model and FAISS index
+2025-04-21 22:07:51,157 - INFO - Logging configured.
+2025-04-21 22:07:51,157 - INFO - Loading model and FAISS index
+2025-04-21 22:07:51,157 - INFO - Logging configured.
+2025-04-21 22:07:51,157 - INFO - Logging configured.
+2025-04-21 22:07:51,157 - INFO - Loading model and FAISS index
+2025-04-21 22:07:51,157 - INFO - Loading model and FAISS index
+2025-04-21 22:07:51,157 - INFO - Loading model and FAISS index
+2025-04-21 22:07:51,157 - INFO - Use pytorch device_name: cpu
+2025-04-21 22:07:51,157 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-21 22:07:51,157 - INFO - Use pytorch device_name: cpu
+2025-04-21 22:07:51,173 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-21 22:07:51,173 - INFO - Use pytorch device_name: cpu
+2025-04-21 22:07:51,173 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-21 22:07:51,173 - INFO - Use pytorch device_name: cpu
+2025-04-21 22:07:51,173 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-21 22:07:51,173 - INFO - Use pytorch device_name: cpu
+2025-04-21 22:07:51,173 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-21 22:11:09,132 - INFO - Logging configured.
+2025-04-21 22:11:09,132 - INFO - Logging configured.
+2025-04-21 22:11:09,132 - INFO - Loading model and FAISS index
+2025-04-21 22:11:09,132 - INFO - Logging configured.
+2025-04-21 22:11:09,132 - INFO - Logging configured.
+2025-04-21 22:11:09,132 - INFO - Logging configured.
+2025-04-21 22:11:09,132 - INFO - Loading model and FAISS index
+2025-04-21 22:11:09,132 - INFO - Logging configured.
+2025-04-21 22:11:09,149 - INFO - Loading model and FAISS index
+2025-04-21 22:11:09,147 - INFO - Loading model and FAISS index
+2025-04-21 22:11:09,147 - INFO - Loading model and FAISS index
+2025-04-21 22:11:09,147 - INFO - Loading model and FAISS index
+2025-04-21 22:11:09,151 - INFO - Use pytorch device_name: cpu
+2025-04-21 22:11:09,151 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-21 22:11:09,163 - INFO - Use pytorch device_name: cpu
+2025-04-21 22:11:09,163 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-21 22:11:09,169 - INFO - Use pytorch device_name: cpu
+2025-04-21 22:11:09,169 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-21 22:11:09,169 - INFO - Use pytorch device_name: cpu
+2025-04-21 22:11:09,169 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-21 22:11:09,172 - INFO - Use pytorch device_name: cpu
+2025-04-21 22:11:09,172 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-21 22:11:09,174 - INFO - Use pytorch device_name: cpu
+2025-04-21 22:11:09,174 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-21 22:11:12,504 - INFO - Data loaded successfully
+2025-04-21 22:17:48,972 - INFO - Logging configured.
+2025-04-21 22:17:48,972 - INFO - Loading model and FAISS index
+2025-04-21 22:17:48,972 - INFO - Use pytorch device_name: cpu
+2025-04-21 22:17:48,972 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-21 22:17:52,836 - INFO - Data loaded successfully
+2025-04-21 22:18:00,991 - INFO - Logging configured.
+2025-04-21 22:18:00,991 - INFO - Loading model and FAISS index
+2025-04-21 22:18:00,991 - INFO - Use pytorch device_name: cpu
+2025-04-21 22:18:00,991 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-21 22:18:03,739 - INFO - Data loaded successfully
+2025-04-21 22:18:03,741 - INFO - User queried: hi
+2025-04-21 22:18:03,742 - INFO - Processing user query: hi
+2025-04-21 22:18:03,916 - INFO - Summarizing context for query: hi
+2025-04-21 22:19:17,520 - INFO - Logging configured.
+2025-04-21 22:19:17,521 - INFO - Loading model and FAISS index
+2025-04-21 22:19:17,527 - INFO - Use pytorch device_name: cpu
+2025-04-21 22:19:17,527 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-21 22:19:20,086 - INFO - Data loaded successfully
+2025-04-21 22:19:20,086 - INFO - User queried: hi\
+2025-04-21 22:19:20,086 - INFO - Processing user query: hi\
+2025-04-21 22:19:20,150 - INFO - Summarizing context for query: hi\
+2025-04-21 22:19:26,657 - INFO - Logging configured.
+2025-04-21 22:19:26,657 - INFO - Loading model and FAISS index
+2025-04-21 22:19:26,662 - INFO - Use pytorch device_name: cpu
+2025-04-21 22:19:26,663 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-21 22:19:29,452 - INFO - Data loaded successfully
+2025-04-21 22:20:26,720 - INFO - Logging configured.
+2025-04-21 22:20:26,720 - INFO - Logging configured.
+2025-04-21 22:20:26,720 - INFO - Logging configured.
+2025-04-21 22:20:26,720 - INFO - Logging configured.
+2025-04-21 22:20:26,720 - INFO - Loading model and FAISS index
+2025-04-21 22:20:26,720 - INFO - Loading model and FAISS index
+2025-04-21 22:20:26,720 - INFO - Loading model and FAISS index
+2025-04-21 22:20:26,720 - INFO - Loading model and FAISS index
+2025-04-21 22:20:26,733 - INFO - Use pytorch device_name: cpu
+2025-04-21 22:20:26,733 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-21 22:20:26,735 - INFO - Use pytorch device_name: cpu
+2025-04-21 22:20:26,735 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-21 22:20:26,737 - INFO - Use pytorch device_name: cpu
+2025-04-21 22:20:26,737 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-21 22:20:26,737 - INFO - Use pytorch device_name: cpu
+2025-04-21 22:20:26,737 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-21 23:54:06,491 - INFO - Logging configured.
+2025-04-21 23:54:06,491 - INFO - Loading model and FAISS index
+2025-04-21 23:54:06,491 - INFO - Use pytorch device_name: cpu
+2025-04-21 23:54:06,491 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-21 23:54:09,961 - INFO - Data loaded successfully
+2025-04-21 23:54:17,365 - INFO - Logging configured.
+2025-04-21 23:54:17,365 - INFO - Loading model and FAISS index
+2025-04-21 23:54:17,368 - INFO - Use pytorch device_name: cpu
+2025-04-21 23:54:17,368 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-21 23:54:20,456 - INFO - Data loaded successfully
+2025-04-21 23:54:20,467 - INFO - User queried: hi
+2025-04-21 23:54:20,469 - INFO - Processing user query: hi
+2025-04-21 23:54:20,821 - INFO - Summarizing context for query: hi
+2025-04-21 23:55:22,889 - INFO - Logging configured.
+2025-04-21 23:55:22,889 - INFO - Loading model and FAISS index
+2025-04-21 23:55:22,896 - INFO - Use pytorch device_name: cpu
+2025-04-21 23:55:22,896 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-21 23:55:26,389 - INFO - Data loaded successfully
+2025-04-21 23:55:32,381 - INFO - Logging configured.
+2025-04-21 23:55:32,381 - INFO - Loading model and FAISS index
+2025-04-21 23:55:32,387 - INFO - Use pytorch device_name: cpu
+2025-04-21 23:55:32,387 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-21 23:55:35,322 - INFO - Data loaded successfully
+2025-04-21 23:55:35,322 - INFO - User queried: hi
+2025-04-21 23:55:35,322 - INFO - Processing user query: hi
+2025-04-21 23:55:35,423 - INFO - Summarizing context for query: hi
+2025-04-21 23:55:38,069 - INFO - Response generated: Hi there! How can I help you today?  I'm ready to assist with your BigBasket order, finding products, or answering any questions you might have about using BigBasket.
+2025-04-22 00:01:10,950 - INFO - Logging configured.
+2025-04-22 00:01:10,950 - INFO - Loading model and FAISS index
+2025-04-22 00:01:10,950 - INFO - Use pytorch device_name: cpu
+2025-04-22 00:01:10,950 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 00:01:14,917 - INFO - Data loaded successfully
+2025-04-22 00:02:02,597 - INFO - Logging configured.
+2025-04-22 00:02:02,597 - INFO - Loading model and FAISS index
+2025-04-22 00:02:02,599 - INFO - Use pytorch device_name: cpu
+2025-04-22 00:02:02,599 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 00:02:06,266 - INFO - Data loaded successfully
+2025-04-22 00:02:10,407 - INFO - Logging configured.
+2025-04-22 00:02:10,407 - INFO - Loading model and FAISS index
+2025-04-22 00:02:10,407 - INFO - Use pytorch device_name: cpu
+2025-04-22 00:02:10,407 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 00:02:13,432 - INFO - Data loaded successfully
+2025-04-22 00:02:13,432 - INFO - User queried: hi
+2025-04-22 00:02:13,432 - INFO - Processing user query: hi
+2025-04-22 00:02:13,749 - INFO - Summarizing context for query: hi
+2025-04-22 00:02:15,649 - INFO - Logged token usage for query: hi. Input: 114, Output: 52, Total: 166
+2025-04-22 00:02:15,660 - INFO - Response generated: Hi there! How can I help you today?  I'm ready to assist you with your BigBasket order, whether you have questions about products, need help finding something specific, or want to know more about our services.
+2025-04-22 00:04:53,113 - INFO - Logging configured.
+2025-04-22 00:04:53,113 - INFO - Logging configured.
+2025-04-22 00:04:53,113 - INFO - Loading model and FAISS index
+2025-04-22 00:04:53,113 - INFO - Loading model and FAISS index
+2025-04-22 00:04:53,130 - INFO - Use pytorch device_name: cpu
+2025-04-22 00:04:53,130 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 00:04:53,130 - INFO - Use pytorch device_name: cpu
+2025-04-22 00:04:53,130 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 00:04:57,367 - INFO - Data loaded successfully
+2025-04-22 00:04:57,478 - INFO - User queried: hi
+2025-04-22 00:04:57,480 - INFO - Processing user query: hi
+2025-04-22 00:04:57,602 - INFO - Summarizing context for query: hi
+2025-04-22 00:05:00,568 - INFO - Logged token usage for model gemini-1.5-pro. Input: 114, Output: 49, Total: 163, Cost: $0.00033
+2025-04-22 00:05:00,570 - INFO - Response generated: Hi there! How can I help you today?  It looks like you might be starting your BigBasket journey.  Are you looking to register an account, browse our products, or do you have a specific item in mind?
+2025-04-22 00:13:14,944 - INFO - Logging configured.
+2025-04-22 00:13:14,944 - INFO - Logging configured.
+2025-04-22 00:13:14,944 - INFO - Loading model and FAISS index
+2025-04-22 00:13:14,944 - INFO - Loading model and FAISS index
+2025-04-22 00:13:14,944 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 00:13:14,944 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 00:13:18,223 - INFO - SentenceTransformer model loaded successfully.
+2025-04-22 00:13:18,250 - INFO - Data loaded successfully
+2025-04-22 00:13:18,432 - INFO - SentenceTransformer model loaded successfully.
+2025-04-22 00:13:18,433 - INFO - Data loaded successfully
+2025-04-22 00:13:18,435 - INFO - User queried: hi
+2025-04-22 00:13:18,436 - INFO - Processing user query: hi
+2025-04-22 00:13:18,593 - INFO - Summarizing context for query: hi
+2025-04-22 00:13:21,379 - INFO - Logged token usage for query: hi. Input: 114, Output: 46, Total: 160
+2025-04-22 00:13:21,379 - INFO - Response generated: Hi there! How can I help you with your BigBasket order today?  Are you looking for something specific or do you need assistance with registration, placing an order, or something else?
+2025-04-22 00:13:26,019 - INFO - Logging configured.
+2025-04-22 00:13:26,019 - INFO - Loading model and FAISS index
+2025-04-22 00:13:26,022 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 00:13:28,831 - INFO - SentenceTransformer model loaded successfully.
+2025-04-22 00:13:28,833 - INFO - Data loaded successfully
+2025-04-22 00:13:28,833 - INFO - User queried: hi
+2025-04-22 00:13:28,835 - INFO - Processing user query: hi
+2025-04-22 00:13:28,874 - INFO - Summarizing context for query: hi
+2025-04-22 00:13:31,755 - INFO - Logged token usage for query: hi. Input: 114, Output: 48, Total: 162
+2025-04-22 00:13:31,755 - INFO - Response generated: Hi there! How can I help you with your BigBasket order today?  Are you looking for something specific or do you need assistance with something like registration, your cart, or finding a product?
+2025-04-22 00:16:07,153 - INFO - Logging configured.
+2025-04-22 00:16:07,168 - INFO - Logging configured.
+2025-04-22 00:16:07,168 - INFO - Logging configured.
+2025-04-22 00:16:07,168 - INFO - Loading model and FAISS index
+2025-04-22 00:16:07,168 - INFO - Loading model and FAISS index
+2025-04-22 00:16:07,168 - INFO - Loading model and FAISS index
+2025-04-22 00:16:07,170 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 00:16:07,170 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 00:16:07,170 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 00:16:10,785 - ERROR - Error loading SentenceTransformer model: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-04-22 00:16:10,785 - INFO - Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+2025-04-22 00:16:10,785 - ERROR - Error loading SentenceTransformer model: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-04-22 00:16:10,785 - INFO - Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+2025-04-22 00:16:10,818 - ERROR - Error loading SentenceTransformer model: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-04-22 00:16:10,818 - INFO - Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+2025-04-22 00:16:13,872 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-04-22 00:16:41,159 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-04-22 00:17:23,351 - INFO - Logging configured.
+2025-04-22 00:17:23,351 - INFO - Logging configured.
+2025-04-22 00:17:23,351 - INFO - Logging configured.
+2025-04-22 00:17:23,351 - INFO - Loading model and FAISS index
+2025-04-22 00:17:23,351 - INFO - Logging configured.
+2025-04-22 00:17:23,351 - INFO - Loading model and FAISS index
+2025-04-22 00:17:23,351 - INFO - Loading model and FAISS index
+2025-04-22 00:17:23,351 - INFO - Loading model and FAISS index
+2025-04-22 00:17:23,351 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 00:17:23,351 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 00:17:23,351 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 00:17:23,351 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 00:17:27,095 - ERROR - Error loading SentenceTransformer model: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-04-22 00:17:27,095 - INFO - Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+2025-04-22 00:17:27,201 - ERROR - Error loading SentenceTransformer model: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-04-22 00:17:27,201 - INFO - Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+2025-04-22 00:17:27,602 - ERROR - Error loading SentenceTransformer model: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-04-22 00:17:27,602 - INFO - Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+2025-04-22 00:17:27,724 - ERROR - Error loading SentenceTransformer model: Cannot copy out of meta tensor; no data! Please use torch.nn.Module.to_empty() instead of torch.nn.Module.to() when moving module from meta to a different device.
+2025-04-22 00:17:27,726 - INFO - Load pretrained SentenceTransformer: paraphrase-MiniLM-L6-v2
+2025-04-22 10:37:39,318 - INFO - Logging configured.
+2025-04-22 10:37:39,318 - INFO - Logging configured.
+2025-04-22 10:37:39,318 - INFO - Logging configured.
+2025-04-22 10:37:39,359 - INFO - Loading model and FAISS index
+2025-04-22 10:37:39,359 - INFO - Loading model and FAISS index
+2025-04-22 10:37:39,359 - INFO - Loading model and FAISS index
+2025-04-22 10:37:39,366 - INFO - Use pytorch device_name: cpu
+2025-04-22 10:37:39,366 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 10:37:39,382 - INFO - Use pytorch device_name: cpu
+2025-04-22 10:37:39,382 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 10:37:39,382 - INFO - Use pytorch device_name: cpu
+2025-04-22 10:37:39,382 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 10:37:44,176 - INFO - Data loaded successfully
+2025-04-22 10:37:44,289 - INFO - Data loaded successfully
+2025-04-22 10:37:44,792 - INFO - Data loaded successfully
+2025-04-22 10:37:56,958 - INFO - Logging configured.
+2025-04-22 10:37:56,968 - INFO - Loading model and FAISS index
+2025-04-22 10:37:56,970 - INFO - Use pytorch device_name: cpu
+2025-04-22 10:37:56,970 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 10:38:01,077 - INFO - Data loaded successfully
+2025-04-22 10:38:01,086 - INFO - User queried: top  5 products based on ratings?
+2025-04-22 10:38:01,087 - INFO - Processing user query: top  5 products based on ratings?
+2025-04-22 10:38:01,087 - INFO - Generating SQL for query: top  5 products based on ratings?
+2025-04-22 11:18:12,201 - INFO - Logging configured.
+2025-04-22 11:18:12,201 - INFO - Logging configured.
+2025-04-22 11:18:12,201 - INFO - Loading model and FAISS index
+2025-04-22 11:18:12,201 - INFO - Loading model and FAISS index
+2025-04-22 11:18:12,208 - INFO - Use pytorch device_name: cpu
+2025-04-22 11:18:12,208 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 11:18:12,218 - INFO - Use pytorch device_name: cpu
+2025-04-22 11:18:12,218 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 11:18:17,232 - INFO - Data loaded successfully
+2025-04-22 11:18:17,363 - INFO - User queried: hi
+2025-04-22 11:18:17,365 - INFO - Processing user query: hi
+2025-04-22 11:18:17,784 - INFO - Summarizing context for query: hi
+2025-04-22 11:20:18,344 - INFO - Logging configured.
+2025-04-22 11:20:18,344 - INFO - Logging configured.
+2025-04-22 11:20:18,344 - INFO - Logging configured.
+2025-04-22 11:20:18,348 - INFO - Loading model and FAISS index
+2025-04-22 11:20:18,348 - INFO - Loading model and FAISS index
+2025-04-22 11:20:18,348 - INFO - Loading model and FAISS index
+2025-04-22 11:20:18,348 - INFO - Use pytorch device_name: cpu
+2025-04-22 11:20:18,357 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 11:20:18,357 - INFO - Use pytorch device_name: cpu
+2025-04-22 11:20:18,357 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 11:20:18,364 - INFO - Use pytorch device_name: cpu
+2025-04-22 11:20:18,364 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 11:20:23,604 - INFO - Data loaded successfully
+2025-04-22 11:20:36,922 - INFO - Logging configured.
+2025-04-22 11:20:36,922 - INFO - Loading model and FAISS index
+2025-04-22 11:20:36,930 - INFO - Use pytorch device_name: cpu
+2025-04-22 11:20:36,930 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 12:58:40,859 - INFO - Logging configured.
+2025-04-22 12:58:40,859 - INFO - Logging configured.
+2025-04-22 12:58:40,859 - INFO - Logging configured.
+2025-04-22 12:58:40,859 - INFO - Loading model and FAISS index
+2025-04-22 12:58:40,859 - INFO - Loading model and FAISS index
+2025-04-22 12:58:40,859 - INFO - Loading model and FAISS index
+2025-04-22 12:58:40,863 - INFO - Use pytorch device_name: cpu
+2025-04-22 12:58:40,863 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 12:58:40,878 - INFO - Use pytorch device_name: cpu
+2025-04-22 12:58:40,878 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 12:58:40,880 - INFO - Use pytorch device_name: cpu
+2025-04-22 12:58:40,880 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 12:58:45,959 - INFO - Data loaded successfully
+2025-04-22 12:59:18,792 - INFO - Logging configured.
+2025-04-22 12:59:18,792 - INFO - Loading model and FAISS index
+2025-04-22 12:59:18,792 - INFO - Use pytorch device_name: cpu
+2025-04-22 12:59:18,792 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 12:59:22,479 - INFO - Data loaded successfully
+2025-04-22 12:59:31,034 - INFO - Logging configured.
+2025-04-22 12:59:31,036 - INFO - Loading model and FAISS index
+2025-04-22 12:59:31,042 - INFO - Use pytorch device_name: cpu
+2025-04-22 12:59:31,042 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 12:59:34,184 - INFO - Data loaded successfully
+2025-04-22 12:59:34,194 - INFO - User queried: hi
+2025-04-22 12:59:34,197 - INFO - Processing user query: hi
+2025-04-22 12:59:34,358 - INFO - Summarizing context for query: hi
+2025-04-22 12:59:36,441 - INFO - Response generated: Hi there! How can I help you today?  It looks like you might be starting your BigBasket journey.  Are you looking to register an account or do you have a question about something else, like placing an order, finding a specific product, or checking your delivery status?
+2025-04-22 12:59:47,582 - INFO - Logging configured.
+2025-04-22 12:59:47,582 - INFO - Loading model and FAISS index
+2025-04-22 12:59:47,597 - INFO - Use pytorch device_name: cpu
+2025-04-22 12:59:47,597 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 12:59:51,475 - INFO - Data loaded successfully
+2025-04-22 12:59:51,489 - INFO - User queried: top 5 rated snacks?
+2025-04-22 12:59:51,495 - INFO - Processing user query: top 5 rated snacks?
+2025-04-22 12:59:51,495 - INFO - Generating SQL for query: top 5 rated snacks?
+2025-04-22 12:59:52,853 - INFO - Generated SQL: SELECT product_name FROM bigbasket_data WHERE category = 'Snacks' ORDER BY rating DESC LIMIT 5;
+2025-04-22 12:59:52,853 - INFO - Executing SQL query: SELECT product_name FROM bigbasket_data WHERE category = 'Snacks' ORDER BY rating DESC LIMIT 5;
+2025-04-22 12:59:52,917 - INFO - SQL query executed successfully
+2025-04-22 12:59:52,917 - INFO - Summarizing context for query: top 5 rated snacks?
+2025-04-22 12:59:57,324 - INFO - Response generated: We couldn’t find any specific ratings for snacks at the moment.  This might be a temporary technical issue.  However,  popular snack choices often include things like:
+
+1. **Nuts and Seeds:** Almonds, cashews, peanuts, sunflower seeds – these are generally considered healthy and satisfying.
+2. **Fruits (fresh or dried):** Apples, bananas, berries, raisins, and mango are easy to grab and go.
+3. **Yogurt:**  Especially Greek yogurt, which is high in protein. You can pair it with fruit or granola.
+4. **Popcorn:** Air-popped popcorn is a whole-grain snack that's low in calories.
+5. **Protein bars or granola bars:** Look for options that aren't loaded with added sugar.
+
+You can also browse BigBasket by category (like "Snacks & Branded Foods") to see what's available and check customer reviews on individual products.  Hopefully this helps you find some tasty treats!
+2025-04-22 13:00:07,361 - INFO - Logging configured.
+2025-04-22 13:00:07,361 - INFO - Loading model and FAISS index
+2025-04-22 13:00:07,365 - INFO - Use pytorch device_name: cpu
+2025-04-22 13:00:07,367 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 13:00:10,743 - INFO - Data loaded successfully
+2025-04-22 13:00:10,746 - INFO - User queried:  ### Is it safe to use my credit/debit card on BigBasket?
+2025-04-22 13:00:10,746 - INFO - Processing user query:  ### Is it safe to use my credit/debit card on BigBasket?
+2025-04-22 13:00:10,869 - INFO - Summarizing context for query:  ### Is it safe to use my credit/debit card on BigBasket?
+2025-04-22 13:05:16,664 - INFO - Logging configured.
+2025-04-22 13:05:16,664 - INFO - Loading model and FAISS index
+2025-04-22 13:05:16,692 - INFO - Use pytorch device_name: cpu
+2025-04-22 13:05:16,699 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 13:05:19,717 - INFO - Data loaded successfully
+2025-04-22 13:05:19,721 - INFO - User queried:  ### Is it safe to use my credit/debit card on BigBasket?
+2025-04-22 13:05:19,721 - INFO - Processing user query:  ### Is it safe to use my credit/debit card on BigBasket?
+2025-04-22 13:05:19,770 - INFO - Summarizing context for query:  ### Is it safe to use my credit/debit card on BigBasket?
+2025-04-22 13:05:26,702 - INFO - Response generated: Yes, BigBasket considers it safe to use your credit or debit card on their website.  They mention using additional authentication like VBV (Verified by Visa) or MSC (MasterCard SecureCode) to enhance security.  These services require you to enter an extra password or one-time code at checkout, providing an additional layer of protection against unauthorized transactions.
+
+While BigBasket takes these precautions, it's always wise to practice general online safety tips:
+
+* **Ensure you're on the official BigBasket website:** Double-check the URL to avoid phishing sites designed to steal your information.
+* **Monitor your statements regularly:**  Keep an eye out for any unauthorized transactions and report them immediately to your bank and BigBasket.
+* **Keep your antivirus and anti-malware software updated:** This helps protect your device from malicious software that could compromise your card details.
+* **Use strong passwords:**  Choose a unique and complex password for your BigBasket account.
+* **Consider using a virtual card number:** Some banks offer virtual card numbers that can be used for online transactions. These numbers are linked to your primary account but can be easily deactivated if compromised, providing an extra layer of security.
