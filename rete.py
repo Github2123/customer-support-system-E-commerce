@@ -17,7 +17,7 @@ model = SentenceTransformer('all-MiniLM-L6-v2')
 
 faiss_index = faiss.read_index('bigbasket_faq_index.faiss')
 
-# 📖 Load FAQ Knowledge Base (from Markdown)
+
 with open('knowledge_Base1/BigBasketFAQ.md', 'r', encoding='utf-8') as f:
     faq_texts = f.read().split('\n\n')
 
