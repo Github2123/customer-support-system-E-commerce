@@ -21,10 +21,10 @@ CREATE TABLE IF NOT EXISTS bigbasket_data (
 );
 ''')
 
-# Load data from CSV with proper encoding
+
 df = pd.read_csv('knowledge_Base1/BigBasket.csv', encoding='ISO-8859-1')  # or encoding='cp1252'
 
-# Insert data into the table
+
 for idx, row in df.iterrows():
     cursor.execute('''
         INSERT OR REPLACE INTO bigbasket_data 
