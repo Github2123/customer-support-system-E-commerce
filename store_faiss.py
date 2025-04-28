@@ -9,11 +9,11 @@ model = SentenceTransformer('all-MiniLM-L6-v2')
 with open('knowledge_Base1/BigBasketFAQ.md', 'r') as file:
     faq_data = file.read().split('\n\n')
 
-# Generate embeddings
+
 faq_embeddings = [model.encode(faq) for faq in faq_data]
 faq_embeddings = np.array(faq_embeddings).astype('float32')
 
-# Get actual dimension from sample
+
 dimension = faq_embeddings.shape[1]
 index = faiss.IndexFlatL2(dimension)
 
