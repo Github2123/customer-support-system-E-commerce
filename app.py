@@ -5,10 +5,13 @@ import numpy as np
 import sqlite3
 import google.generativeai as genai
 from sentence_transformers import SentenceTransformer
+from dotenv import load_dotenv
 import os
+load_dotenv()
 
-# 🔐 Gemini API Authentication
-genai.configure(api_key="AIzaSyC-O2kw8mkhPl5BdHxFAPgEglXMsRAX6WM")
+
+api_key = os.getenv("GOOGLE_API_KEY")
+genai.configure(api_key=api_key)
 gemini_model = genai.GenerativeModel("gemini-1.5-pro")
 
 # ⚡ Efficient Data Loading (Only Once)
