@@ -14,7 +14,7 @@ api_key = os.getenv("GOOGLE_API_KEY")
 genai.configure(api_key=api_key)
 gemini_model = genai.GenerativeModel("gemini-1.5-pro")
 
-# ⚡ Efficient Data Loading (Only Once)
+
 if "model" not in st.session_state:
     st.session_state.model = SentenceTransformer('all-MiniLM-L6-v2')
 
@@ -32,7 +32,7 @@ if "faq_texts" not in st.session_state:
     else:
         st.error(" FAQ file not found.")
 
-# ⚙️ Utility Functions 
+
 def is_structured_query(query):
     keywords = ['top', 'lowest', 'highest', 'price', 'under', 'above', 'brand', 'category']
     return any(word in query.lower() for word in keywords)
@@ -68,6 +68,7 @@ User question: "{user_query}"
 Return only the SQL code. Do not explain.
 """
     response = gemini_model.generate_content(prompt)
+
     raw_sql = response.text.strip()
     if raw_sql.startswith("```"):
         raw_sql = raw_sql.strip("`")
@@ -84,7 +85,7 @@ def run_sql_query(query):
         return f"Error executing SQL: {e}"
 
 def summarize_with_gemini(user_query, context):
-    # Custom response for general help questions
+
     general_help_phrases = ["hi", "hello", "hey", "how are you", "what's up","how can you help", "what can you do", "help me", "assist me"]
     if any(phrase in user_query.lower() for phrase in general_help_phrases):
         return (
