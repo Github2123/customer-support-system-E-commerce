@@ -1,4 +1,4 @@
-BigBasket AI Assistant
+                                                         BigBasket AI Assistant
 Welcome to the BigBasket AI Assistant project! This assistant uses state-of-the-art AI and machine learning technologies to help users find answers to their queries about BigBasket's products, prices, brands, and policies.
 
 Technologies Used
@@ -17,7 +17,7 @@ Pandas: For handling and displaying query results in a readable format.
 
 
 
-                                                                       How It Works
+                                                            How It Works
 User Query Input: The user enters a query in the Streamlit interface.
 
 Query Handling:
@@ -31,7 +31,7 @@ Response Generation:
 The assistant uses the Gemini API to generate a response based on the query and the context from either the FAQ or database query results.
 
 
-                                                                         Features
+                                                               Features
 Semantic Search: Uses Sentence Transformers and FAISS for efficient text similarity search on the FAQ data.
 
 SQL Query Generation: Uses Google Gemini API to generate SQLite queries based on user input, for example, to retrieve product information.
