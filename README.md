@@ -1,4 +1,4 @@
-                                                            BigBasket AI Assistant
+BigBasket AI Assistant
 Welcome to the BigBasket AI Assistant project! This assistant uses state-of-the-art AI and machine learning technologies to help users find answers to their queries about BigBasket's products, prices, brands, and policies.
 
 Technologies Used
